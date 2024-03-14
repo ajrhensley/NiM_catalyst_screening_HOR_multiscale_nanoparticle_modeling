@@ -1,5 +1,5 @@
 # Data and Code Repository for Original Research Article Titled: "HOLD"
-The original research article is by Isabella Furrick*, Ayodeji Omoniyi*, Shuqiao Wang*, Thomas Robinson*, and Alyssa J.R. Hensley*, and is being prepared for review with _ChemCatChem_ (last updated March 13, 2024).
+The original research article is by Isabella Furrick*, Ayodeji Omoniyi*, Shuqiao Wang*, Thomas Robinson*, and Alyssa J.R. Hensley*, and is being prepared for review with _ChemCatChem_ (last updated March 14, 2024).
 
 *Department of Chemical Engineering and Materials Science at Stevens Insitute of Technology
 
