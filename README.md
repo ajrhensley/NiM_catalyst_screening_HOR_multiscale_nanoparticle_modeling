@@ -17,5 +17,5 @@ Contributions to this project were determined using CRediT (Contributor Roles Ta
 - I.F. contributed to HOLD.
 - A.O. contributed to data curation, formal analysis, investigation, methodology, visualization, and writing (original draft).
 - S.W. contributed to HOLD.
-- T.R. contributed to HOLD.
+- T.R. contributed to data curation, formal analysis, investigation, validation, and visualization.
 - A.J.R.H. contributed to conceptualization, funding acquisition, methodology, project administration, supervision, and writing (original draft).
