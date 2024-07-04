@@ -1,5 +1,5 @@
 # Data and Code Repository for Original Research Article Titled: "Integration of Facet-Dependent, Adsorbate-Driven Surface Reconstruction into Multiscale Models for the Design of Ni-Based Bimetallic Catalysts for Hydrogen Oxidation"
-The original research article is by Isabella Furrick*, Ayodeji Omoniyi*, Shuqiao Wang*, Thomas Robinson*, and Alyssa J.R. Hensley*, and is under review with _ChemCatChem_.
+The original research article is by Isabella Furrick*, Ayodeji Omoniyi*, Shuqiao Wang*, Thomas Robinson*, and Alyssa J.R. Hensley*, and is accepted _ChemCatChem_.
 
 *Department of Chemical Engineering and Materials Science at Stevens Insitute of Technology
 
